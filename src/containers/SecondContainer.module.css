@@ -1,0 +1,16 @@
+.second {
+  margin-top: 10px;
+  padding: 10px;
+}
+
+.intro {
+    width: 30%;
+    margin: 30px auto;
+}
+
+.avatar {
+  border-radius: 50%;
+  width: 100px;
+  zoom: 300%;
+  height: 100px;
+}
